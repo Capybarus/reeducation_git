@@ -1,1 +1,4 @@
 test git
+text
+text2
+text3
